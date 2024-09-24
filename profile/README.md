@@ -10,8 +10,9 @@ that is closely tied to the way data is stored.
 
 ## 🚀 Key Features
 
-🧩 AOP - Aspect-Oriented Programming
-🛠 QueryBuilder
-📐 Support for CTE Expressions
-🔒 Scope Control
-🗄️ MultiStorages
+* 🧩 AOP Aspect-Oriented Programming for Entities and properties.
+* 🛠 QueryBuilder pattern.
+* 📐 Support for CTE Expressions.
+* 🔒 Scope Control
+* 🗄️ MultiStorages
+* ⚙️ Customizable DSL
