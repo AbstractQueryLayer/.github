@@ -7,3 +7,11 @@ that can be used as an abstraction layer over databases.
 
 `AQL` is **not an ORM** solution but a `DSL` — a tool for implementing business logic 
 that is closely tied to the way data is stored.
+
+## 🚀 Key Features
+
+🧩 AOP - Aspect-Oriented Programming
+🛠 QueryBuilder
+📐 Support for CTE Expressions
+🔒 Scope Control
+🗄️ MultiStorages
